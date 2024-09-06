@@ -1,3 +1,3 @@
-#Realice una comparación del rendimiento de la implementación en el paradigma imperativo y el paradigma declarativo.
+# Realice una comparación del rendimiento de la implementación en el paradigma imperativo y el paradigma declarativo.
 
 El enfoque imperativo en C ofrece un mejor rendimiento en cuanto a uso de memoria y tiempo de ejecución, ya que manipula directamente los datos y optimiza la gestión de memoria, siendo menos propenso a la fragmentación. Sin embargo, su código tiende a ser más complejo y difícil de mantener. Por otro lado, el paradigma declarativo, aunque más fácil de leer y mantener, genera overhead en la creación de nuevas estructuras, lo que impacta negativamente en el uso de memoria y el tiempo de procesamiento. Dado que C está diseñado para el enfoque imperativo, este resulta más eficiente, mientras que el declarativo es más adecuado cuando la claridad y la mantenibilidad del código son prioritarias.
