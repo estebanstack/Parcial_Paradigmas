@@ -1,0 +1,1 @@
+La programación dinámica mejora la eficiencia del cálculo recursivo al almacenar los resultados intermedios. Este enfoque elimina la redundancia y permite calcular factoriales grandes sin las limitaciones de la pila, con la ventaja adicional de ser más flexible para otros problemas relacionados.
