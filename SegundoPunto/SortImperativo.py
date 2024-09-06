@@ -1,4 +1,4 @@
-def selection_sort_estudiantes(estudiantes):
+def bubbleSort_estudiantes(estudiantes):
     n = len(estudiantes)
     
     for i in range(n):
@@ -17,5 +17,5 @@ def selection_sort_estudiantes(estudiantes):
 
 estudiantes = [("Sebastian", 4.0), ("Jacobo", 4.5), ("Esteban", 5.0), ("Julian", 3.5), ("David", 3.0), ("Andres", 4.5), ("Juan", 4.0)]
 
-sorted_estudiantes = selection_sort_estudiantes(estudiantes)
-print(sorted_estudiantes)
+sortedEstudiantes = bubbleSort_estudiantes(estudiantes)
+print(sortedEstudiantes)
